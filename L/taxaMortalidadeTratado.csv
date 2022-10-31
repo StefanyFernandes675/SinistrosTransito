@@ -1,0 +1,901 @@
+,Municipio,Tipo,Mortes,Taxa_mortalidade,Ano
+0,Bertioga,Pedestres,0,0.0,2001
+1,Bertioga,Ciclistas,0,0.0,2001
+2,Bertioga,Motociclistas,1,3.1,2001
+3,Bertioga,Ocupantes de automóvel,0,0.0,2001
+4,Bertioga,Outros,12,36.8,2001
+5,Cubatao,Pedestres,14,12.5,2001
+6,Cubatao,Ciclistas,0,0.0,2001
+7,Cubatao,Motociclistas,2,1.8,2001
+8,Cubatao,Ocupantes de automóvel,0,0.0,2001
+9,Cubatao,Outros,11,9.9,2001
+10,Guaruja,Pedestres,4,1.5,2001
+11,Guaruja,Ciclistas,0,0.0,2001
+12,Guaruja,Motociclistas,1,0.4,2001
+13,Guaruja,Ocupantes de automóvel,0,0.0,2001
+14,Guaruja,Outros,14,5.1,2001
+15,Itanhaem,Pedestres,7,9.3,2001
+16,Itanhaem,Ciclistas,0,0.0,2001
+17,Itanhaem,Motociclistas,0,0.0,2001
+18,Itanhaem,Ocupantes de automóvel,0,0.0,2001
+19,Itanhaem,Outros,16,21.3,2001
+20,Mongagua,Pedestres,6,16.2,2001
+21,Mongagua,Ciclistas,0,0.0,2001
+22,Mongagua,Motociclistas,1,2.7,2001
+23,Mongagua,Ocupantes de automóvel,1,2.7,2001
+24,Mongagua,Outros,6,16.2,2001
+25,Peruibe,Pedestres,1,1.9,2001
+26,Peruibe,Ciclistas,0,0.0,2001
+27,Peruibe,Motociclistas,0,0.0,2001
+28,Peruibe,Ocupantes de automóvel,0,0.0,2001
+29,Peruibe,Outros,3,5.6,2001
+30,Praia Grande,Pedestres,9,4.4,2001
+31,Praia Grande,Ciclistas,1,0.5,2001
+32,Praia Grande,Motociclistas,0,0.0,2001
+33,Praia Grande,Ocupantes de automóvel,1,0.5,2001
+34,Praia Grande,Outros,24,11.7,2001
+35,Santos,Pedestres,29,6.8,2001
+36,Santos,Ciclistas,0,0.0,2001
+37,Santos,Motociclistas,5,1.2,2001
+38,Santos,Ocupantes de automóvel,4,0.9,2001
+39,Santos,Outros,31,7.3,2001
+40,Sao Vicente,Pedestres,22,7.0,2001
+41,Sao Vicente,Ciclistas,0,0.0,2001
+42,Sao Vicente,Motociclistas,1,0.3,2001
+43,Sao Vicente,Ocupantes de automóvel,0,0.0,2001
+44,Sao Vicente,Outros,20,6.4,2001
+45,Bertioga,Pedestres,0,0.0,2002
+46,Bertioga,Ciclistas,0,0.0,2002
+47,Bertioga,Motociclistas,1,2.9,2002
+48,Bertioga,Ocupantes de automóvel,2,5.8,2002
+49,Bertioga,Outros,15,43.4,2002
+50,Cubatao,Pedestres,6,5.3,2002
+51,Cubatao,Ciclistas,0,0.0,2002
+52,Cubatao,Motociclistas,1,0.9,2002
+53,Cubatao,Ocupantes de automóvel,2,1.8,2002
+54,Cubatao,Outros,23,20.4,2002
+55,Guaruja,Pedestres,3,1.1,2002
+56,Guaruja,Ciclistas,0,0.0,2002
+57,Guaruja,Motociclistas,3,1.1,2002
+58,Guaruja,Ocupantes de automóvel,1,0.4,2002
+59,Guaruja,Outros,21,7.6,2002
+60,Itanhaem,Pedestres,10,13.0,2002
+61,Itanhaem,Ciclistas,0,0.0,2002
+62,Itanhaem,Motociclistas,0,0.0,2002
+63,Itanhaem,Ocupantes de automóvel,0,0.0,2002
+64,Itanhaem,Outros,15,19.5,2002
+65,Mongagua,Pedestres,12,31.3,2002
+66,Mongagua,Ciclistas,1,2.6,2002
+67,Mongagua,Motociclistas,1,2.6,2002
+68,Mongagua,Ocupantes de automóvel,0,0.0,2002
+69,Mongagua,Outros,6,15.7,2002
+70,Peruibe,Pedestres,3,5.5,2002
+71,Peruibe,Ciclistas,1,1.8,2002
+72,Peruibe,Motociclistas,0,0.0,2002
+73,Peruibe,Ocupantes de automóvel,1,1.8,2002
+74,Peruibe,Outros,5,9.2,2002
+75,Praia Grande,Pedestres,25,11.8,2002
+76,Praia Grande,Ciclistas,1,0.5,2002
+77,Praia Grande,Motociclistas,2,0.9,2002
+78,Praia Grande,Ocupantes de automóvel,0,0.0,2002
+79,Praia Grande,Outros,19,8.9,2002
+80,Santos,Pedestres,19,4.5,2002
+81,Santos,Ciclistas,2,0.5,2002
+82,Santos,Motociclistas,5,1.2,2002
+83,Santos,Ocupantes de automóvel,1,0.2,2002
+84,Santos,Outros,42,9.8,2002
+85,Sao Vicente,Pedestres,25,7.9,2002
+86,Sao Vicente,Ciclistas,1,0.3,2002
+87,Sao Vicente,Motociclistas,5,1.6,2002
+88,Sao Vicente,Ocupantes de automóvel,0,0.0,2002
+89,Sao Vicente,Outros,22,7.0,2002
+90,Bertioga,Pedestres,0,0.0,2003
+91,Bertioga,Ciclistas,0,0.0,2003
+92,Bertioga,Motociclistas,3,8.2,2003
+93,Bertioga,Ocupantes de automóvel,0,0.0,2003
+94,Bertioga,Outros,4,11.0,2003
+95,Cubatao,Pedestres,17,14.9,2003
+96,Cubatao,Ciclistas,1,0.9,2003
+97,Cubatao,Motociclistas,3,2.6,2003
+98,Cubatao,Ocupantes de automóvel,0,0.0,2003
+99,Cubatao,Outros,9,7.9,2003
+100,Guaruja,Pedestres,3,1.1,2003
+101,Guaruja,Ciclistas,1,0.4,2003
+102,Guaruja,Motociclistas,1,0.4,2003
+103,Guaruja,Ocupantes de automóvel,0,0.0,2003
+104,Guaruja,Outros,28,10.0,2003
+105,Itanhaem,Pedestres,7,8.9,2003
+106,Itanhaem,Ciclistas,0,0.0,2003
+107,Itanhaem,Motociclistas,0,0.0,2003
+108,Itanhaem,Ocupantes de automóvel,0,0.0,2003
+109,Itanhaem,Outros,14,17.9,2003
+110,Mongagua,Pedestres,7,17.7,2003
+111,Mongagua,Ciclistas,1,2.5,2003
+112,Mongagua,Motociclistas,1,2.5,2003
+113,Mongagua,Ocupantes de automóvel,0,0.0,2003
+114,Mongagua,Outros,9,22.8,2003
+115,Peruibe,Pedestres,2,3.6,2003
+116,Peruibe,Ciclistas,1,1.8,2003
+117,Peruibe,Motociclistas,0,0.0,2003
+118,Peruibe,Ocupantes de automóvel,0,0.0,2003
+119,Peruibe,Outros,2,3.6,2003
+120,Praia Grande,Pedestres,31,14.1,2003
+121,Praia Grande,Ciclistas,6,2.7,2003
+122,Praia Grande,Motociclistas,1,0.5,2003
+123,Praia Grande,Ocupantes de automóvel,0,0.0,2003
+124,Praia Grande,Outros,33,15.0,2003
+125,Santos,Pedestres,35,8.2,2003
+126,Santos,Ciclistas,1,0.2,2003
+127,Santos,Motociclistas,7,1.6,2003
+128,Santos,Ocupantes de automóvel,0,0.0,2003
+129,Santos,Outros,45,10.5,2003
+130,Sao Vicente,Pedestres,23,7.2,2003
+131,Sao Vicente,Ciclistas,0,0.0,2003
+132,Sao Vicente,Motociclistas,3,0.9,2003
+133,Sao Vicente,Ocupantes de automóvel,0,0.0,2003
+134,Sao Vicente,Outros,23,7.2,2003
+135,Bertioga,Pedestres,0,0.0,2004
+136,Bertioga,Ciclistas,0,0.0,2004
+137,Bertioga,Motociclistas,0,0.0,2004
+138,Bertioga,Ocupantes de automóvel,2,5.2,2004
+139,Bertioga,Outros,13,34.0,2004
+140,Cubatao,Pedestres,19,16.5,2004
+141,Cubatao,Ciclistas,0,0.0,2004
+142,Cubatao,Motociclistas,3,2.6,2004
+143,Cubatao,Ocupantes de automóvel,3,2.6,2004
+144,Cubatao,Outros,21,18.2,2004
+145,Guaruja,Pedestres,3,1.1,2004
+146,Guaruja,Ciclistas,2,0.7,2004
+147,Guaruja,Motociclistas,5,1.8,2004
+148,Guaruja,Ocupantes de automóvel,0,0.0,2004
+149,Guaruja,Outros,13,4.6,2004
+150,Itanhaem,Pedestres,11,13.7,2004
+151,Itanhaem,Ciclistas,2,2.5,2004
+152,Itanhaem,Motociclistas,0,0.0,2004
+153,Itanhaem,Ocupantes de automóvel,0,0.0,2004
+154,Itanhaem,Outros,16,20.0,2004
+155,Mongagua,Pedestres,4,9.8,2004
+156,Mongagua,Ciclistas,0,0.0,2004
+157,Mongagua,Motociclistas,0,0.0,2004
+158,Mongagua,Ocupantes de automóvel,0,0.0,2004
+159,Mongagua,Outros,4,9.8,2004
+160,Peruibe,Pedestres,2,3.6,2004
+161,Peruibe,Ciclistas,0,0.0,2004
+162,Peruibe,Motociclistas,0,0.0,2004
+163,Peruibe,Ocupantes de automóvel,0,0.0,2004
+164,Peruibe,Outros,16,28.5,2004
+165,Praia Grande,Pedestres,15,6.6,2004
+166,Praia Grande,Ciclistas,1,0.4,2004
+167,Praia Grande,Motociclistas,1,0.4,2004
+168,Praia Grande,Ocupantes de automóvel,0,0.0,2004
+169,Praia Grande,Outros,53,23.3,2004
+170,Santos,Pedestres,43,10.1,2004
+171,Santos,Ciclistas,2,0.5,2004
+172,Santos,Motociclistas,10,2.3,2004
+173,Santos,Ocupantes de automóvel,4,0.9,2004
+174,Santos,Outros,42,9.8,2004
+175,Sao Vicente,Pedestres,17,5.3,2004
+176,Sao Vicente,Ciclistas,2,0.6,2004
+177,Sao Vicente,Motociclistas,4,1.2,2004
+178,Sao Vicente,Ocupantes de automóvel,2,0.6,2004
+179,Sao Vicente,Outros,19,5.9,2004
+180,Bertioga,Pedestres,2,4.8,2005
+181,Bertioga,Ciclistas,0,0.0,2005
+182,Bertioga,Motociclistas,0,0.0,2005
+183,Bertioga,Ocupantes de automóvel,0,0.0,2005
+184,Bertioga,Outros,8,19.1,2005
+185,Cubatao,Pedestres,17,14.5,2005
+186,Cubatao,Ciclistas,0,0.0,2005
+187,Cubatao,Motociclistas,5,4.3,2005
+188,Cubatao,Ocupantes de automóvel,0,0.0,2005
+189,Cubatao,Outros,21,17.9,2005
+190,Guaruja,Pedestres,1,0.3,2005
+191,Guaruja,Ciclistas,0,0.0,2005
+192,Guaruja,Motociclistas,1,0.3,2005
+193,Guaruja,Ocupantes de automóvel,0,0.0,2005
+194,Guaruja,Outros,22,7.7,2005
+195,Itanhaem,Pedestres,15,18.0,2005
+196,Itanhaem,Ciclistas,2,2.4,2005
+197,Itanhaem,Motociclistas,0,0.0,2005
+198,Itanhaem,Ocupantes de automóvel,0,0.0,2005
+199,Itanhaem,Outros,11,13.2,2005
+200,Mongagua,Pedestres,13,30.3,2005
+201,Mongagua,Ciclistas,0,0.0,2005
+202,Mongagua,Motociclistas,0,0.0,2005
+203,Mongagua,Ocupantes de automóvel,0,0.0,2005
+204,Mongagua,Outros,7,16.3,2005
+205,Peruibe,Pedestres,4,6.9,2005
+206,Peruibe,Ciclistas,0,0.0,2005
+207,Peruibe,Motociclistas,0,0.0,2005
+208,Peruibe,Ocupantes de automóvel,0,0.0,2005
+209,Peruibe,Outros,15,25.9,2005
+210,Praia Grande,Pedestres,18,7.5,2005
+211,Praia Grande,Ciclistas,1,0.4,2005
+212,Praia Grande,Motociclistas,4,1.7,2005
+213,Praia Grande,Ocupantes de automóvel,2,0.8,2005
+214,Praia Grande,Outros,31,12.8,2005
+215,Santos,Pedestres,37,8.6,2005
+216,Santos,Ciclistas,1,0.2,2005
+217,Santos,Motociclistas,12,2.8,2005
+218,Santos,Ocupantes de automóvel,4,0.9,2005
+219,Santos,Outros,45,10.5,2005
+220,Sao Vicente,Pedestres,13,4.0,2005
+221,Sao Vicente,Ciclistas,3,0.9,2005
+222,Sao Vicente,Motociclistas,6,1.8,2005
+223,Sao Vicente,Ocupantes de automóvel,0,0.0,2005
+224,Sao Vicente,Outros,16,4.9,2005
+225,Bertioga,Pedestres,1,2.4,2006
+226,Bertioga,Ciclistas,0,0.0,2006
+227,Bertioga,Motociclistas,0,0.0,2006
+228,Bertioga,Ocupantes de automóvel,5,11.9,2006
+229,Bertioga,Outros,7,16.7,2006
+230,Cubatao,Pedestres,12,10.2,2006
+231,Cubatao,Ciclistas,2,1.7,2006
+232,Cubatao,Motociclistas,5,4.3,2006
+233,Cubatao,Ocupantes de automóvel,0,0.0,2006
+234,Cubatao,Outros,25,21.3,2006
+235,Guaruja,Pedestres,1,0.3,2006
+236,Guaruja,Ciclistas,0,0.0,2006
+237,Guaruja,Motociclistas,0,0.0,2006
+238,Guaruja,Ocupantes de automóvel,0,0.0,2006
+239,Guaruja,Outros,64,22.3,2006
+240,Itanhaem,Pedestres,9,10.8,2006
+241,Itanhaem,Ciclistas,4,4.8,2006
+242,Itanhaem,Motociclistas,0,0.0,2006
+243,Itanhaem,Ocupantes de automóvel,3,3.6,2006
+244,Itanhaem,Outros,11,13.2,2006
+245,Mongagua,Pedestres,11,25.6,2006
+246,Mongagua,Ciclistas,0,0.0,2006
+247,Mongagua,Motociclistas,0,0.0,2006
+248,Mongagua,Ocupantes de automóvel,0,0.0,2006
+249,Mongagua,Outros,1,2.3,2006
+250,Peruibe,Pedestres,4,6.9,2006
+251,Peruibe,Ciclistas,1,1.7,2006
+252,Peruibe,Motociclistas,0,0.0,2006
+253,Peruibe,Ocupantes de automóvel,0,0.0,2006
+254,Peruibe,Outros,10,17.3,2006
+255,Praia Grande,Pedestres,25,10.4,2006
+256,Praia Grande,Ciclistas,1,0.4,2006
+257,Praia Grande,Motociclistas,3,1.2,2006
+258,Praia Grande,Ocupantes de automóvel,1,0.4,2006
+259,Praia Grande,Outros,49,20.3,2006
+260,Santos,Pedestres,53,12.4,2006
+261,Santos,Ciclistas,10,2.3,2006
+262,Santos,Motociclistas,32,7.5,2006
+263,Santos,Ocupantes de automóvel,5,1.2,2006
+264,Santos,Outros,17,4.0,2006
+265,Sao Vicente,Pedestres,8,2.4,2006
+266,Sao Vicente,Ciclistas,6,1.8,2006
+267,Sao Vicente,Motociclistas,7,2.1,2006
+268,Sao Vicente,Ocupantes de automóvel,0,0.0,2006
+269,Sao Vicente,Outros,35,10.6,2006
+270,Bertioga,Pedestres,0,0.0,2007
+271,Bertioga,Ciclistas,0,0.0,2007
+272,Bertioga,Motociclistas,0,0.0,2007
+273,Bertioga,Ocupantes de automóvel,6,13.8,2007
+274,Bertioga,Outros,32,73.4,2007
+275,Cubatao,Pedestres,24,20.3,2007
+276,Cubatao,Ciclistas,0,0.0,2007
+277,Cubatao,Motociclistas,14,11.8,2007
+278,Cubatao,Ocupantes de automóvel,1,0.8,2007
+279,Cubatao,Outros,23,19.4,2007
+280,Guaruja,Pedestres,1,0.3,2007
+281,Guaruja,Ciclistas,0,0.0,2007
+282,Guaruja,Motociclistas,0,0.0,2007
+283,Guaruja,Ocupantes de automóvel,0,0.0,2007
+284,Guaruja,Outros,69,23.8,2007
+285,Itanhaem,Pedestres,5,5.9,2007
+286,Itanhaem,Ciclistas,3,3.5,2007
+287,Itanhaem,Motociclistas,0,0.0,2007
+288,Itanhaem,Ocupantes de automóvel,1,1.2,2007
+289,Itanhaem,Outros,5,5.9,2007
+290,Mongagua,Pedestres,5,11.3,2007
+291,Mongagua,Ciclistas,1,2.3,2007
+292,Mongagua,Motociclistas,1,2.3,2007
+293,Mongagua,Ocupantes de automóvel,6,13.6,2007
+294,Mongagua,Outros,0,0.0,2007
+295,Peruibe,Pedestres,9,15.3,2007
+296,Peruibe,Ciclistas,0,0.0,2007
+297,Peruibe,Motociclistas,0,0.0,2007
+298,Peruibe,Ocupantes de automóvel,0,0.0,2007
+299,Peruibe,Outros,1,1.7,2007
+300,Praia Grande,Pedestres,25,10.1,2007
+301,Praia Grande,Ciclistas,2,0.8,2007
+302,Praia Grande,Motociclistas,6,2.4,2007
+303,Praia Grande,Ocupantes de automóvel,1,0.4,2007
+304,Praia Grande,Outros,28,11.3,2007
+305,Santos,Pedestres,35,8.2,2007
+306,Santos,Ciclistas,6,1.4,2007
+307,Santos,Motociclistas,30,7.0,2007
+308,Santos,Ocupantes de automóvel,6,1.4,2007
+309,Santos,Outros,23,5.4,2007
+310,Sao Vicente,Pedestres,10,3.0,2007
+311,Sao Vicente,Ciclistas,3,0.9,2007
+312,Sao Vicente,Motociclistas,7,2.1,2007
+313,Sao Vicente,Ocupantes de automóvel,1,0.3,2007
+314,Sao Vicente,Outros,31,9.3,2007
+315,Bertioga,Pedestres,0,0.0,2008
+316,Bertioga,Ciclistas,0,0.0,2008
+317,Bertioga,Motociclistas,0,0.0,2008
+318,Bertioga,Ocupantes de automóvel,0,0.0,2008
+319,Bertioga,Outros,24,53.0,2008
+320,Cubatao,Pedestres,12,10.0,2008
+321,Cubatao,Ciclistas,1,0.8,2008
+322,Cubatao,Motociclistas,9,7.5,2008
+323,Cubatao,Ocupantes de automóvel,0,0.0,2008
+324,Cubatao,Outros,22,18.4,2008
+325,Guaruja,Pedestres,2,0.7,2008
+326,Guaruja,Ciclistas,0,0.0,2008
+327,Guaruja,Motociclistas,0,0.0,2008
+328,Guaruja,Ocupantes de automóvel,0,0.0,2008
+329,Guaruja,Outros,60,20.5,2008
+330,Itanhaem,Pedestres,9,10.4,2008
+331,Itanhaem,Ciclistas,1,1.2,2008
+332,Itanhaem,Motociclistas,0,0.0,2008
+333,Itanhaem,Ocupantes de automóvel,0,0.0,2008
+334,Itanhaem,Outros,10,11.6,2008
+335,Mongagua,Pedestres,7,15.5,2008
+336,Mongagua,Ciclistas,0,0.0,2008
+337,Mongagua,Motociclistas,0,0.0,2008
+338,Mongagua,Ocupantes de automóvel,2,4.4,2008
+339,Mongagua,Outros,2,4.4,2008
+340,Peruibe,Pedestres,6,10.1,2008
+341,Peruibe,Ciclistas,1,1.7,2008
+342,Peruibe,Motociclistas,0,0.0,2008
+343,Peruibe,Ocupantes de automóvel,0,0.0,2008
+344,Peruibe,Outros,6,10.1,2008
+345,Praia Grande,Pedestres,19,7.5,2008
+346,Praia Grande,Ciclistas,6,2.4,2008
+347,Praia Grande,Motociclistas,12,4.7,2008
+348,Praia Grande,Ocupantes de automóvel,4,1.6,2008
+349,Praia Grande,Outros,23,9.0,2008
+350,Santos,Pedestres,34,7.9,2008
+351,Santos,Ciclistas,6,1.4,2008
+352,Santos,Motociclistas,33,7.7,2008
+353,Santos,Ocupantes de automóvel,3,0.7,2008
+354,Santos,Outros,35,8.2,2008
+355,Sao Vicente,Pedestres,12,3.6,2008
+356,Sao Vicente,Ciclistas,2,0.6,2008
+357,Sao Vicente,Motociclistas,15,4.5,2008
+358,Sao Vicente,Ocupantes de automóvel,2,0.6,2008
+359,Sao Vicente,Outros,26,7.8,2008
+360,Bertioga,Pedestres,1,2.1,2009
+361,Bertioga,Ciclistas,0,0.0,2009
+362,Bertioga,Motociclistas,0,0.0,2009
+363,Bertioga,Ocupantes de automóvel,0,0.0,2009
+364,Bertioga,Outros,29,61.6,2009
+365,Cubatao,Pedestres,9,7.5,2009
+366,Cubatao,Ciclistas,1,0.8,2009
+367,Cubatao,Motociclistas,9,7.5,2009
+368,Cubatao,Ocupantes de automóvel,0,0.0,2009
+369,Cubatao,Outros,23,19.1,2009
+370,Guaruja,Pedestres,0,0.0,2009
+371,Guaruja,Ciclistas,0,0.0,2009
+372,Guaruja,Motociclistas,1,0.3,2009
+373,Guaruja,Ocupantes de automóvel,0,0.0,2009
+374,Guaruja,Outros,32,10.8,2009
+375,Itanhaem,Pedestres,3,3.4,2009
+376,Itanhaem,Ciclistas,3,3.4,2009
+377,Itanhaem,Motociclistas,0,0.0,2009
+378,Itanhaem,Ocupantes de automóvel,4,4.6,2009
+379,Itanhaem,Outros,1,1.1,2009
+380,Mongagua,Pedestres,9,19.4,2009
+381,Mongagua,Ciclistas,0,0.0,2009
+382,Mongagua,Motociclistas,0,0.0,2009
+383,Mongagua,Ocupantes de automóvel,6,13.0,2009
+384,Mongagua,Outros,1,2.2,2009
+385,Peruibe,Pedestres,4,6.6,2009
+386,Peruibe,Ciclistas,0,0.0,2009
+387,Peruibe,Motociclistas,0,0.0,2009
+388,Peruibe,Ocupantes de automóvel,0,0.0,2009
+389,Peruibe,Outros,4,6.6,2009
+390,Praia Grande,Pedestres,23,8.8,2009
+391,Praia Grande,Ciclistas,9,3.4,2009
+392,Praia Grande,Motociclistas,13,5.0,2009
+393,Praia Grande,Ocupantes de automóvel,0,0.0,2009
+394,Praia Grande,Outros,34,13.0,2009
+395,Santos,Pedestres,32,7.5,2009
+396,Santos,Ciclistas,11,2.6,2009
+397,Santos,Motociclistas,23,5.4,2009
+398,Santos,Ocupantes de automóvel,2,0.5,2009
+399,Santos,Outros,20,4.7,2009
+400,Sao Vicente,Pedestres,13,3.8,2009
+401,Sao Vicente,Ciclistas,3,0.9,2009
+402,Sao Vicente,Motociclistas,9,2.7,2009
+403,Sao Vicente,Ocupantes de automóvel,7,2.1,2009
+404,Sao Vicente,Outros,9,2.7,2009
+405,Bertioga,Pedestres,1,2.0,2010
+406,Bertioga,Ciclistas,0,0.0,2010
+407,Bertioga,Motociclistas,0,0.0,2010
+408,Bertioga,Ocupantes de automóvel,0,0.0,2010
+409,Bertioga,Outros,15,30.7,2010
+410,Cubatao,Pedestres,7,5.8,2010
+411,Cubatao,Ciclistas,0,0.0,2010
+412,Cubatao,Motociclistas,12,9.9,2010
+413,Cubatao,Ocupantes de automóvel,0,0.0,2010
+414,Cubatao,Outros,11,9.0,2010
+415,Guaruja,Pedestres,3,1.0,2010
+416,Guaruja,Ciclistas,0,0.0,2010
+417,Guaruja,Motociclistas,6,2.0,2010
+418,Guaruja,Ocupantes de automóvel,0,0.0,2010
+419,Guaruja,Outros,28,9.4,2010
+420,Itanhaem,Pedestres,12,13.4,2010
+421,Itanhaem,Ciclistas,4,4.5,2010
+422,Itanhaem,Motociclistas,0,0.0,2010
+423,Itanhaem,Ocupantes de automóvel,9,10.1,2010
+424,Itanhaem,Outros,0,0.0,2010
+425,Mongagua,Pedestres,4,8.4,2010
+426,Mongagua,Ciclistas,0,0.0,2010
+427,Mongagua,Motociclistas,0,0.0,2010
+428,Mongagua,Ocupantes de automóvel,6,12.6,2010
+429,Mongagua,Outros,1,2.1,2010
+430,Peruibe,Pedestres,6,9.8,2010
+431,Peruibe,Ciclistas,0,0.0,2010
+432,Peruibe,Motociclistas,0,0.0,2010
+433,Peruibe,Ocupantes de automóvel,0,0.0,2010
+434,Peruibe,Outros,6,9.8,2010
+435,Praia Grande,Pedestres,20,7.4,2010
+436,Praia Grande,Ciclistas,2,0.7,2010
+437,Praia Grande,Motociclistas,11,4.1,2010
+438,Praia Grande,Ocupantes de automóvel,3,1.1,2010
+439,Praia Grande,Outros,33,12.3,2010
+440,Santos,Pedestres,40,9.3,2010
+441,Santos,Ciclistas,12,2.8,2010
+442,Santos,Motociclistas,30,7.0,2010
+443,Santos,Ocupantes de automóvel,1,0.2,2010
+444,Santos,Outros,14,3.3,2010
+445,Sao Vicente,Pedestres,8,2.3,2010
+446,Sao Vicente,Ciclistas,0,0.0,2010
+447,Sao Vicente,Motociclistas,6,1.8,2010
+448,Sao Vicente,Ocupantes de automóvel,3,0.9,2010
+449,Sao Vicente,Outros,13,3.8,2010
+450,Bertioga,Pedestres,1,2.0,2011
+451,Bertioga,Ciclistas,0,0.0,2011
+452,Bertioga,Motociclistas,0,0.0,2011
+453,Bertioga,Ocupantes de automóvel,0,0.0,2011
+454,Bertioga,Outros,17,33.7,2011
+455,Cubatao,Pedestres,11,9.0,2011
+456,Cubatao,Ciclistas,1,0.8,2011
+457,Cubatao,Motociclistas,10,8.1,2011
+458,Cubatao,Ocupantes de automóvel,1,0.8,2011
+459,Cubatao,Outros,10,8.1,2011
+460,Guaruja,Pedestres,3,1.0,2011
+461,Guaruja,Ciclistas,0,0.0,2011
+462,Guaruja,Motociclistas,3,1.0,2011
+463,Guaruja,Ocupantes de automóvel,0,0.0,2011
+464,Guaruja,Outros,26,8.6,2011
+465,Itanhaem,Pedestres,12,13.2,2011
+466,Itanhaem,Ciclistas,6,6.6,2011
+467,Itanhaem,Motociclistas,2,2.2,2011
+468,Itanhaem,Ocupantes de automóvel,6,6.6,2011
+469,Itanhaem,Outros,3,3.3,2011
+470,Mongagua,Pedestres,0,0.0,2011
+471,Mongagua,Ciclistas,0,0.0,2011
+472,Mongagua,Motociclistas,1,2.1,2011
+473,Mongagua,Ocupantes de automóvel,6,12.4,2011
+474,Mongagua,Outros,0,0.0,2011
+475,Peruibe,Pedestres,0,0.0,2011
+476,Peruibe,Ciclistas,0,0.0,2011
+477,Peruibe,Motociclistas,1,1.6,2011
+478,Peruibe,Ocupantes de automóvel,8,12.9,2011
+479,Peruibe,Outros,7,11.3,2011
+480,Praia Grande,Pedestres,22,8.0,2011
+481,Praia Grande,Ciclistas,13,4.7,2011
+482,Praia Grande,Motociclistas,23,8.4,2011
+483,Praia Grande,Ocupantes de automóvel,3,1.1,2011
+484,Praia Grande,Outros,12,4.4,2011
+485,Santos,Pedestres,30,7.0,2011
+486,Santos,Ciclistas,14,3.3,2011
+487,Santos,Motociclistas,31,7.2,2011
+488,Santos,Ocupantes de automóvel,8,1.9,2011
+489,Santos,Outros,16,3.7,2011
+490,Sao Vicente,Pedestres,7,2.0,2011
+491,Sao Vicente,Ciclistas,4,1.2,2011
+492,Sao Vicente,Motociclistas,10,2.9,2011
+493,Sao Vicente,Ocupantes de automóvel,2,0.6,2011
+494,Sao Vicente,Outros,30,8.7,2011
+495,Bertioga,Pedestres,0,0.0,2012
+496,Bertioga,Ciclistas,0,0.0,2012
+497,Bertioga,Motociclistas,0,0.0,2012
+498,Bertioga,Ocupantes de automóvel,0,0.0,2012
+499,Bertioga,Outros,26,49.9,2012
+500,Cubatao,Pedestres,8,6.5,2012
+501,Cubatao,Ciclistas,0,0.0,2012
+502,Cubatao,Motociclistas,6,4.8,2012
+503,Cubatao,Ocupantes de automóvel,1,0.8,2012
+504,Cubatao,Outros,12,9.7,2012
+505,Guaruja,Pedestres,7,2.3,2012
+506,Guaruja,Ciclistas,0,0.0,2012
+507,Guaruja,Motociclistas,0,0.0,2012
+508,Guaruja,Ocupantes de automóvel,0,0.0,2012
+509,Guaruja,Outros,49,16.2,2012
+510,Itanhaem,Pedestres,8,8.7,2012
+511,Itanhaem,Ciclistas,0,0.0,2012
+512,Itanhaem,Motociclistas,4,4.3,2012
+513,Itanhaem,Ocupantes de automóvel,6,6.5,2012
+514,Itanhaem,Outros,1,1.1,2012
+515,Mongagua,Pedestres,5,10.1,2012
+516,Mongagua,Ciclistas,0,0.0,2012
+517,Mongagua,Motociclistas,0,0.0,2012
+518,Mongagua,Ocupantes de automóvel,2,4.0,2012
+519,Mongagua,Outros,5,10.1,2012
+520,Peruibe,Pedestres,5,8.0,2012
+521,Peruibe,Ciclistas,1,1.6,2012
+522,Peruibe,Motociclistas,3,4.8,2012
+523,Peruibe,Ocupantes de automóvel,1,1.6,2012
+524,Peruibe,Outros,1,1.6,2012
+525,Praia Grande,Pedestres,15,5.3,2012
+526,Praia Grande,Ciclistas,14,5.0,2012
+527,Praia Grande,Motociclistas,18,6.4,2012
+528,Praia Grande,Ocupantes de automóvel,15,5.3,2012
+529,Praia Grande,Outros,10,3.6,2012
+530,Santos,Pedestres,34,7.9,2012
+531,Santos,Ciclistas,8,1.9,2012
+532,Santos,Motociclistas,37,8.6,2012
+533,Santos,Ocupantes de automóvel,9,2.1,2012
+534,Santos,Outros,17,3.9,2012
+535,Sao Vicente,Pedestres,15,4.3,2012
+536,Sao Vicente,Ciclistas,3,0.9,2012
+537,Sao Vicente,Motociclistas,14,4.0,2012
+538,Sao Vicente,Ocupantes de automóvel,8,2.3,2012
+539,Sao Vicente,Outros,9,2.6,2012
+540,Bertioga,Pedestres,0,0.0,2013
+541,Bertioga,Ciclistas,0,0.0,2013
+542,Bertioga,Motociclistas,0,0.0,2013
+543,Bertioga,Ocupantes de automóvel,0,0.0,2013
+544,Bertioga,Outros,28,52.1,2013
+545,Cubatao,Pedestres,4,3.2,2013
+546,Cubatao,Ciclistas,1,0.8,2013
+547,Cubatao,Motociclistas,11,8.8,2013
+548,Cubatao,Ocupantes de automóvel,1,0.8,2013
+549,Cubatao,Outros,7,5.6,2013
+550,Guaruja,Pedestres,13,4.3,2013
+551,Guaruja,Ciclistas,0,0.0,2013
+552,Guaruja,Motociclistas,0,0.0,2013
+553,Guaruja,Ocupantes de automóvel,0,0.0,2013
+554,Guaruja,Outros,39,12.8,2013
+555,Itanhaem,Pedestres,19,20.3,2013
+556,Itanhaem,Ciclistas,0,0.0,2013
+557,Itanhaem,Motociclistas,3,3.2,2013
+558,Itanhaem,Ocupantes de automóvel,1,1.1,2013
+559,Itanhaem,Outros,6,6.4,2013
+560,Mongagua,Pedestres,14,27.7,2013
+561,Mongagua,Ciclistas,0,0.0,2013
+562,Mongagua,Motociclistas,0,0.0,2013
+563,Mongagua,Ocupantes de automóvel,1,2.0,2013
+564,Mongagua,Outros,2,4.0,2013
+565,Peruibe,Pedestres,2,3.1,2013
+566,Peruibe,Ciclistas,0,0.0,2013
+567,Peruibe,Motociclistas,1,1.6,2013
+568,Peruibe,Ocupantes de automóvel,0,0.0,2013
+569,Peruibe,Outros,4,6.3,2013
+570,Praia Grande,Pedestres,32,11.1,2013
+571,Praia Grande,Ciclistas,8,2.8,2013
+572,Praia Grande,Motociclistas,17,5.9,2013
+573,Praia Grande,Ocupantes de automóvel,5,1.7,2013
+574,Praia Grande,Outros,21,7.3,2013
+575,Santos,Pedestres,33,7.7,2013
+576,Santos,Ciclistas,2,0.5,2013
+577,Santos,Motociclistas,16,3.7,2013
+578,Santos,Ocupantes de automóvel,7,1.6,2013
+579,Santos,Outros,19,4.4,2013
+580,Sao Vicente,Pedestres,12,3.4,2013
+581,Sao Vicente,Ciclistas,7,2.0,2013
+582,Sao Vicente,Motociclistas,15,4.3,2013
+583,Sao Vicente,Ocupantes de automóvel,0,0.0,2013
+584,Sao Vicente,Outros,9,2.6,2013
+585,Bertioga,Pedestres,0,0.0,2014
+586,Bertioga,Ciclistas,0,0.0,2014
+587,Bertioga,Motociclistas,0,0.0,2014
+588,Bertioga,Ocupantes de automóvel,0,0.0,2014
+589,Bertioga,Outros,21,37.9,2014
+590,Cubatao,Pedestres,8,6.4,2014
+591,Cubatao,Ciclistas,1,0.8,2014
+592,Cubatao,Motociclistas,4,3.2,2014
+593,Cubatao,Ocupantes de automóvel,1,0.8,2014
+594,Cubatao,Outros,20,15.9,2014
+595,Guaruja,Pedestres,7,2.3,2014
+596,Guaruja,Ciclistas,1,0.3,2014
+597,Guaruja,Motociclistas,5,1.6,2014
+598,Guaruja,Ocupantes de automóvel,0,0.0,2014
+599,Guaruja,Outros,34,11.0,2014
+600,Itanhaem,Pedestres,16,16.9,2014
+601,Itanhaem,Ciclistas,0,0.0,2014
+602,Itanhaem,Motociclistas,3,3.2,2014
+603,Itanhaem,Ocupantes de automóvel,2,2.1,2014
+604,Itanhaem,Outros,6,6.3,2014
+605,Mongagua,Pedestres,5,9.7,2014
+606,Mongagua,Ciclistas,0,0.0,2014
+607,Mongagua,Motociclistas,0,0.0,2014
+608,Mongagua,Ocupantes de automóvel,2,3.9,2014
+609,Mongagua,Outros,1,1.9,2014
+610,Peruibe,Pedestres,2,3.1,2014
+611,Peruibe,Ciclistas,0,0.0,2014
+612,Peruibe,Motociclistas,2,3.1,2014
+613,Peruibe,Ocupantes de automóvel,0,0.0,2014
+614,Peruibe,Outros,1,1.6,2014
+615,Praia Grande,Pedestres,16,5.4,2014
+616,Praia Grande,Ciclistas,2,0.7,2014
+617,Praia Grande,Motociclistas,9,3.1,2014
+618,Praia Grande,Ocupantes de automóvel,0,0.0,2014
+619,Praia Grande,Outros,22,7.5,2014
+620,Santos,Pedestres,21,4.9,2014
+621,Santos,Ciclistas,6,1.4,2014
+622,Santos,Motociclistas,17,3.9,2014
+623,Santos,Ocupantes de automóvel,9,2.1,2014
+624,Santos,Outros,4,0.9,2014
+625,Sao Vicente,Pedestres,19,5.4,2014
+626,Sao Vicente,Ciclistas,2,0.6,2014
+627,Sao Vicente,Motociclistas,11,3.1,2014
+628,Sao Vicente,Ocupantes de automóvel,1,0.3,2014
+629,Sao Vicente,Outros,11,3.1,2014
+630,Bertioga,Pedestres,0,0.0,2015
+631,Bertioga,Ciclistas,1,1.8,2015
+632,Bertioga,Motociclistas,2,3.5,2015
+633,Bertioga,Ocupantes de automóvel,0,0.0,2015
+634,Bertioga,Outros,15,26.3,2015
+635,Cubatao,Pedestres,6,4.7,2015
+636,Cubatao,Ciclistas,2,1.6,2015
+637,Cubatao,Motociclistas,7,5.5,2015
+638,Cubatao,Ocupantes de automóvel,0,0.0,2015
+639,Cubatao,Outros,2,1.6,2015
+640,Guaruja,Pedestres,3,1.0,2015
+641,Guaruja,Ciclistas,2,0.6,2015
+642,Guaruja,Motociclistas,2,0.6,2015
+643,Guaruja,Ocupantes de automóvel,0,0.0,2015
+644,Guaruja,Outros,53,17.1,2015
+645,Itanhaem,Pedestres,9,9.3,2015
+646,Itanhaem,Ciclistas,0,0.0,2015
+647,Itanhaem,Motociclistas,0,0.0,2015
+648,Itanhaem,Ocupantes de automóvel,0,0.0,2015
+649,Itanhaem,Outros,5,5.2,2015
+650,Mongagua,Pedestres,3,5.7,2015
+651,Mongagua,Ciclistas,0,0.0,2015
+652,Mongagua,Motociclistas,3,5.7,2015
+653,Mongagua,Ocupantes de automóvel,0,0.0,2015
+654,Mongagua,Outros,3,5.7,2015
+655,Peruibe,Pedestres,4,6.1,2015
+656,Peruibe,Ciclistas,0,0.0,2015
+657,Peruibe,Motociclistas,2,3.1,2015
+658,Peruibe,Ocupantes de automóvel,0,0.0,2015
+659,Peruibe,Outros,2,3.1,2015
+660,Praia Grande,Pedestres,19,6.3,2015
+661,Praia Grande,Ciclistas,5,1.7,2015
+662,Praia Grande,Motociclistas,14,4.7,2015
+663,Praia Grande,Ocupantes de automóvel,1,0.3,2015
+664,Praia Grande,Outros,12,4.0,2015
+665,Santos,Pedestres,21,4.9,2015
+666,Santos,Ciclistas,7,1.6,2015
+667,Santos,Motociclistas,14,3.2,2015
+668,Santos,Ocupantes de automóvel,2,0.5,2015
+669,Santos,Outros,12,2.8,2015
+670,Sao Vicente,Pedestres,8,2.3,2015
+671,Sao Vicente,Ciclistas,2,0.6,2015
+672,Sao Vicente,Motociclistas,11,3.1,2015
+673,Sao Vicente,Ocupantes de automóvel,4,1.1,2015
+674,Sao Vicente,Outros,8,2.3,2015
+675,Bertioga,Pedestres,0,0.0,2016
+676,Bertioga,Ciclistas,0,0.0,2016
+677,Bertioga,Motociclistas,0,0.0,2016
+678,Bertioga,Ocupantes de automóvel,0,0.0,2016
+679,Bertioga,Outros,33,56.3,2016
+680,Cubatao,Pedestres,2,1.6,2016
+681,Cubatao,Ciclistas,0,0.0,2016
+682,Cubatao,Motociclistas,5,3.9,2016
+683,Cubatao,Ocupantes de automóvel,3,2.3,2016
+684,Cubatao,Outros,7,5.5,2016
+685,Guaruja,Pedestres,2,0.6,2016
+686,Guaruja,Ciclistas,3,1.0,2016
+687,Guaruja,Motociclistas,4,1.3,2016
+688,Guaruja,Ocupantes de automóvel,0,0.0,2016
+689,Guaruja,Outros,47,15.0,2016
+690,Itanhaem,Pedestres,9,9.2,2016
+691,Itanhaem,Ciclistas,2,2.0,2016
+692,Itanhaem,Motociclistas,0,0.0,2016
+693,Itanhaem,Ocupantes de automóvel,1,1.0,2016
+694,Itanhaem,Outros,6,6.1,2016
+695,Mongagua,Pedestres,4,7.4,2016
+696,Mongagua,Ciclistas,0,0.0,2016
+697,Mongagua,Motociclistas,3,5.6,2016
+698,Mongagua,Ocupantes de automóvel,1,1.9,2016
+699,Mongagua,Outros,0,0.0,2016
+700,Peruibe,Pedestres,2,3.0,2016
+701,Peruibe,Ciclistas,0,0.0,2016
+702,Peruibe,Motociclistas,0,0.0,2016
+703,Peruibe,Ocupantes de automóvel,0,0.0,2016
+704,Peruibe,Outros,3,4.5,2016
+705,Praia Grande,Pedestres,10,3.3,2016
+706,Praia Grande,Ciclistas,5,1.6,2016
+707,Praia Grande,Motociclistas,9,2.9,2016
+708,Praia Grande,Ocupantes de automóvel,1,0.3,2016
+709,Praia Grande,Outros,16,5.2,2016
+710,Santos,Pedestres,21,4.9,2016
+711,Santos,Ciclistas,4,0.9,2016
+712,Santos,Motociclistas,29,6.7,2016
+713,Santos,Ocupantes de automóvel,10,2.3,2016
+714,Santos,Outros,7,1.6,2016
+715,Sao Vicente,Pedestres,12,3.4,2016
+716,Sao Vicente,Ciclistas,5,1.4,2016
+717,Sao Vicente,Motociclistas,16,4.5,2016
+718,Sao Vicente,Ocupantes de automóvel,0,0.0,2016
+719,Sao Vicente,Outros,5,1.4,2016
+720,Bertioga,Pedestres,0,0.0,2017
+721,Bertioga,Ciclistas,1,1.7,2017
+722,Bertioga,Motociclistas,3,5.0,2017
+723,Bertioga,Ocupantes de automóvel,0,0.0,2017
+724,Bertioga,Outros,15,24.9,2017
+725,Cubatao,Pedestres,4,3.1,2017
+726,Cubatao,Ciclistas,0,0.0,2017
+727,Cubatao,Motociclistas,4,3.1,2017
+728,Cubatao,Ocupantes de automóvel,2,1.6,2017
+729,Cubatao,Outros,2,1.6,2017
+730,Guaruja,Pedestres,7,2.2,2017
+731,Guaruja,Ciclistas,3,1.0,2017
+732,Guaruja,Motociclistas,11,3.5,2017
+733,Guaruja,Ocupantes de automóvel,1,0.3,2017
+734,Guaruja,Outros,3,1.0,2017
+735,Itanhaem,Pedestres,9,9.1,2017
+736,Itanhaem,Ciclistas,1,1.0,2017
+737,Itanhaem,Motociclistas,4,4.0,2017
+738,Itanhaem,Ocupantes de automóvel,0,0.0,2017
+739,Itanhaem,Outros,7,7.1,2017
+740,Mongagua,Pedestres,3,5.5,2017
+741,Mongagua,Ciclistas,0,0.0,2017
+742,Mongagua,Motociclistas,0,0.0,2017
+743,Mongagua,Ocupantes de automóvel,1,1.8,2017
+744,Mongagua,Outros,0,0.0,2017
+745,Peruibe,Pedestres,1,1.5,2017
+746,Peruibe,Ciclistas,1,1.5,2017
+747,Peruibe,Motociclistas,1,1.5,2017
+748,Peruibe,Ocupantes de automóvel,1,1.5,2017
+749,Peruibe,Outros,3,4.5,2017
+750,Praia Grande,Pedestres,15,4.8,2017
+751,Praia Grande,Ciclistas,8,2.6,2017
+752,Praia Grande,Motociclistas,18,5.7,2017
+753,Praia Grande,Ocupantes de automóvel,2,0.6,2017
+754,Praia Grande,Outros,10,3.2,2017
+755,Santos,Pedestres,20,4.6,2017
+756,Santos,Ciclistas,3,0.7,2017
+757,Santos,Motociclistas,16,3.7,2017
+758,Santos,Ocupantes de automóvel,5,1.2,2017
+759,Santos,Outros,7,1.6,2017
+760,Sao Vicente,Pedestres,6,1.7,2017
+761,Sao Vicente,Ciclistas,0,0.0,2017
+762,Sao Vicente,Motociclistas,8,2.2,2017
+763,Sao Vicente,Ocupantes de automóvel,0,0.0,2017
+764,Sao Vicente,Outros,9,2.5,2017
+765,Bertioga,Pedestres,2,3.2,2018
+766,Bertioga,Ciclistas,0,0.0,2018
+767,Bertioga,Motociclistas,1,1.6,2018
+768,Bertioga,Ocupantes de automóvel,0,0.0,2018
+769,Bertioga,Outros,7,11.3,2018
+770,Cubatao,Pedestres,13,10.0,2018
+771,Cubatao,Ciclistas,1,0.8,2018
+772,Cubatao,Motociclistas,5,3.9,2018
+773,Cubatao,Ocupantes de automóvel,4,3.1,2018
+774,Cubatao,Outros,7,5.4,2018
+775,Guaruja,Pedestres,6,1.9,2018
+776,Guaruja,Ciclistas,3,0.9,2018
+777,Guaruja,Motociclistas,10,3.1,2018
+778,Guaruja,Ocupantes de automóvel,2,0.6,2018
+779,Guaruja,Outros,8,2.5,2018
+780,Itanhaem,Pedestres,11,10.9,2018
+781,Itanhaem,Ciclistas,2,2.0,2018
+782,Itanhaem,Motociclistas,3,3.0,2018
+783,Itanhaem,Ocupantes de automóvel,1,1.0,2018
+784,Itanhaem,Outros,0,0.0,2018
+785,Mongagua,Pedestres,2,3.6,2018
+786,Mongagua,Ciclistas,1,1.8,2018
+787,Mongagua,Motociclistas,2,3.6,2018
+788,Mongagua,Ocupantes de automóvel,0,0.0,2018
+789,Mongagua,Outros,0,0.0,2018
+790,Peruibe,Pedestres,1,1.5,2018
+791,Peruibe,Ciclistas,0,0.0,2018
+792,Peruibe,Motociclistas,4,5.9,2018
+793,Peruibe,Ocupantes de automóvel,7,10.4,2018
+794,Peruibe,Outros,0,0.0,2018
+795,Praia Grande,Pedestres,21,6.6,2018
+796,Praia Grande,Ciclistas,7,2.2,2018
+797,Praia Grande,Motociclistas,24,7.5,2018
+798,Praia Grande,Ocupantes de automóvel,2,0.6,2018
+799,Praia Grande,Outros,5,1.6,2018
+800,Santos,Pedestres,17,3.9,2018
+801,Santos,Ciclistas,2,0.5,2018
+802,Santos,Motociclistas,13,3.0,2018
+803,Santos,Ocupantes de automóvel,11,2.5,2018
+804,Santos,Outros,2,0.5,2018
+805,Sao Vicente,Pedestres,13,3.6,2018
+806,Sao Vicente,Ciclistas,3,0.8,2018
+807,Sao Vicente,Motociclistas,13,3.6,2018
+808,Sao Vicente,Ocupantes de automóvel,4,1.1,2018
+809,Sao Vicente,Outros,3,0.8,2018
+810,Bertioga,Pedestres,3,4.7,2019
+811,Bertioga,Ciclistas,1,1.6,2019
+812,Bertioga,Motociclistas,2,3.2,2019
+813,Bertioga,Ocupantes de automóvel,1,1.6,2019
+814,Bertioga,Outros,4,6.3,2019
+815,Cubatao,Pedestres,8,6.1,2019
+816,Cubatao,Ciclistas,3,2.3,2019
+817,Cubatao,Motociclistas,6,4.6,2019
+818,Cubatao,Ocupantes de automóvel,2,1.5,2019
+819,Cubatao,Outros,6,4.6,2019
+820,Guaruja,Pedestres,10,3.1,2019
+821,Guaruja,Ciclistas,5,1.6,2019
+822,Guaruja,Motociclistas,13,4.1,2019
+823,Guaruja,Ocupantes de automóvel,6,1.9,2019
+824,Guaruja,Outros,10,3.1,2019
+825,Itanhaem,Pedestres,10,9.8,2019
+826,Itanhaem,Ciclistas,0,0.0,2019
+827,Itanhaem,Motociclistas,3,2.9,2019
+828,Itanhaem,Ocupantes de automóvel,2,2.0,2019
+829,Itanhaem,Outros,4,3.9,2019
+830,Mongagua,Pedestres,3,5.3,2019
+831,Mongagua,Ciclistas,0,0.0,2019
+832,Mongagua,Motociclistas,0,0.0,2019
+833,Mongagua,Ocupantes de automóvel,1,1.8,2019
+834,Mongagua,Outros,2,3.5,2019
+835,Peruibe,Pedestres,2,2.9,2019
+836,Peruibe,Ciclistas,1,1.5,2019
+837,Peruibe,Motociclistas,3,4.4,2019
+838,Peruibe,Ocupantes de automóvel,2,2.9,2019
+839,Peruibe,Outros,1,1.5,2019
+840,Praia Grande,Pedestres,18,5.5,2019
+841,Praia Grande,Ciclistas,7,2.2,2019
+842,Praia Grande,Motociclistas,10,3.1,2019
+843,Praia Grande,Ocupantes de automóvel,5,1.5,2019
+844,Praia Grande,Outros,6,1.8,2019
+845,Santos,Pedestres,9,2.1,2019
+846,Santos,Ciclistas,5,1.2,2019
+847,Santos,Motociclistas,11,2.5,2019
+848,Santos,Ocupantes de automóvel,4,0.9,2019
+849,Santos,Outros,15,3.5,2019
+850,Sao Vicente,Pedestres,9,2.5,2019
+851,Sao Vicente,Ciclistas,10,2.7,2019
+852,Sao Vicente,Motociclistas,17,4.6,2019
+853,Sao Vicente,Ocupantes de automóvel,0,0.0,2019
+854,Sao Vicente,Outros,4,1.1,2019
+855,Bertioga,Pedestres,2,3.1,2020
+856,Bertioga,Ciclistas,2,3.1,2020
+857,Bertioga,Motociclistas,3,4.6,2020
+858,Bertioga,Ocupantes de automóvel,7,10.8,2020
+859,Bertioga,Outros,5,7.7,2020
+860,Cubatao,Pedestres,10,7.6,2020
+861,Cubatao,Ciclistas,4,3.0,2020
+862,Cubatao,Motociclistas,7,5.3,2020
+863,Cubatao,Ocupantes de automóvel,4,3.0,2020
+864,Cubatao,Outros,4,3.0,2020
+865,Guaruja,Pedestres,4,1.2,2020
+866,Guaruja,Ciclistas,2,0.6,2020
+867,Guaruja,Motociclistas,16,5.0,2020
+868,Guaruja,Ocupantes de automóvel,2,0.6,2020
+869,Guaruja,Outros,4,1.2,2020
+870,Itanhaem,Pedestres,8,7.8,2020
+871,Itanhaem,Ciclistas,5,4.8,2020
+872,Itanhaem,Motociclistas,4,3.9,2020
+873,Itanhaem,Ocupantes de automóvel,1,1.0,2020
+874,Itanhaem,Outros,2,1.9,2020
+875,Mongagua,Pedestres,2,3.5,2020
+876,Mongagua,Ciclistas,1,1.7,2020
+877,Mongagua,Motociclistas,2,3.5,2020
+878,Mongagua,Ocupantes de automóvel,0,0.0,2020
+879,Mongagua,Outros,0,0.0,2020
+880,Peruibe,Pedestres,4,5.8,2020
+881,Peruibe,Ciclistas,1,1.4,2020
+882,Peruibe,Motociclistas,3,4.3,2020
+883,Peruibe,Ocupantes de automóvel,6,8.7,2020
+884,Peruibe,Outros,0,0.0,2020
+885,Praia Grande,Pedestres,21,6.3,2020
+886,Praia Grande,Ciclistas,8,2.4,2020
+887,Praia Grande,Motociclistas,26,7.9,2020
+888,Praia Grande,Ocupantes de automóvel,1,0.3,2020
+889,Praia Grande,Outros,4,1.2,2020
+890,Santos,Pedestres,11,2.5,2020
+891,Santos,Ciclistas,4,0.9,2020
+892,Santos,Motociclistas,22,5.1,2020
+893,Santos,Ocupantes de automóvel,5,1.2,2020
+894,Santos,Outros,8,1.8,2020
+895,Sao Vicente,Pedestres,16,4.3,2020
+896,Sao Vicente,Ciclistas,3,0.8,2020
+897,Sao Vicente,Motociclistas,18,4.9,2020
+898,Sao Vicente,Ocupantes de automóvel,2,0.5,2020
+899,Sao Vicente,Outros,1,0.3,2020

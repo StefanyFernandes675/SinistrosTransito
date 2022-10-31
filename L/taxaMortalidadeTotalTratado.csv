@@ -1,0 +1,181 @@
+,Municipio,Tipo,Mortes,Taxa_mortalidade,Ano
+0,Bertioga,Total,13,39.8,2001
+1,Cubatao,Total,27,24.2,2001
+2,Guaruja,Total,19,7.0,2001
+3,Itanhaem,Total,23,30.6,2001
+4,Mongagua,Total,14,37.8,2001
+5,Peruibe,Total,4,7.5,2001
+6,Praia Grande,Total,35,17.1,2001
+7,Santos,Total,69,16.2,2001
+8,Sao Vicente,Total,43,13.8,2001
+9,Bertioga,Total,18,52.1,2002
+10,Cubatao,Total,32,28.4,2002
+11,Guaruja,Total,28,10.1,2002
+12,Itanhaem,Total,25,32.6,2002
+13,Mongagua,Total,20,52.2,2002
+14,Peruibe,Total,10,18.4,2002
+15,Praia Grande,Total,47,22.1,2002
+16,Santos,Total,69,16.2,2002
+17,Sao Vicente,Total,53,16.8,2002
+18,Bertioga,Total,7,19.2,2003
+19,Cubatao,Total,30,26.3,2003
+20,Guaruja,Total,33,11.8,2003
+21,Itanhaem,Total,21,26.8,2003
+22,Mongagua,Total,18,45.6,2003
+23,Peruibe,Total,5,9.1,2003
+24,Praia Grande,Total,71,32.3,2003
+25,Santos,Total,88,20.6,2003
+26,Sao Vicente,Total,49,15.3,2003
+27,Bertioga,Total,15,39.2,2004
+28,Cubatao,Total,46,40.0,2004
+29,Guaruja,Total,23,8.2,2004
+30,Itanhaem,Total,29,36.2,2004
+31,Mongagua,Total,8,19.7,2004
+32,Peruibe,Total,18,32.1,2004
+33,Praia Grande,Total,70,30.8,2004
+34,Santos,Total,101,23.6,2004
+35,Sao Vicente,Total,44,13.6,2004
+36,Bertioga,Total,10,23.9,2005
+37,Cubatao,Total,43,36.6,2005
+38,Guaruja,Total,24,8.4,2005
+39,Itanhaem,Total,28,33.7,2005
+40,Mongagua,Total,20,46.5,2005
+41,Peruibe,Total,19,32.8,2005
+42,Praia Grande,Total,56,23.2,2005
+43,Santos,Total,99,23.1,2005
+44,Sao Vicente,Total,38,11.6,2005
+45,Bertioga,Total,13,31.1,2006
+46,Cubatao,Total,44,37.5,2006
+47,Guaruja,Total,65,22.6,2006
+48,Itanhaem,Total,27,32.5,2006
+49,Mongagua,Total,12,27.9,2006
+50,Peruibe,Total,15,25.9,2006
+51,Praia Grande,Total,79,32.7,2006
+52,Santos,Total,117,27.3,2006
+53,Sao Vicente,Total,56,17.0,2006
+54,Bertioga,Total,38,87.2,2007
+55,Cubatao,Total,62,52.4,2007
+56,Guaruja,Total,70,24.1,2007
+57,Itanhaem,Total,14,16.5,2007
+58,Mongagua,Total,13,29.5,2007
+59,Peruibe,Total,10,17.0,2007
+60,Praia Grande,Total,62,25.0,2007
+61,Santos,Total,100,23.3,2007
+62,Sao Vicente,Total,52,15.7,2007
+63,Bertioga,Total,24,53.0,2008
+64,Cubatao,Total,44,36.8,2008
+65,Guaruja,Total,62,21.2,2008
+66,Itanhaem,Total,20,23.2,2008
+67,Mongagua,Total,11,24.3,2008
+68,Peruibe,Total,13,21.8,2008
+69,Praia Grande,Total,64,25.1,2008
+70,Santos,Total,111,25.9,2008
+71,Sao Vicente,Total,57,17.0,2008
+72,Bertioga,Total,30,63.7,2009
+73,Cubatao,Total,42,34.8,2009
+74,Guaruja,Total,33,11.2,2009
+75,Itanhaem,Total,11,12.5,2009
+76,Mongagua,Total,16,34.5,2009
+77,Peruibe,Total,8,13.2,2009
+78,Praia Grande,Total,79,30.2,2009
+79,Santos,Total,88,20.5,2009
+80,Sao Vicente,Total,41,12.1,2009
+81,Bertioga,Total,16,32.8,2010
+82,Cubatao,Total,30,24.7,2010
+83,Guaruja,Total,37,12.4,2010
+84,Itanhaem,Total,25,28.0,2010
+85,Mongagua,Total,11,23.2,2010
+86,Peruibe,Total,12,19.6,2010
+87,Praia Grande,Total,69,25.7,2010
+88,Santos,Total,97,22.6,2010
+89,Sao Vicente,Total,30,8.8,2010
+90,Bertioga,Total,18,35.7,2011
+91,Cubatao,Total,33,26.9,2011
+92,Guaruja,Total,32,10.6,2011
+93,Itanhaem,Total,29,32.0,2011
+94,Mongagua,Total,7,14.4,2011
+95,Peruibe,Total,16,25.8,2011
+96,Praia Grande,Total,73,26.5,2011
+97,Santos,Total,99,23.0,2011
+98,Sao Vicente,Total,53,15.4,2011
+99,Bertioga,Total,26,49.9,2012
+100,Cubatao,Total,27,21.8,2012
+101,Guaruja,Total,56,18.5,2012
+102,Itanhaem,Total,19,20.6,2012
+103,Mongagua,Total,12,24.2,2012
+104,Peruibe,Total,11,17.5,2012
+105,Praia Grande,Total,72,25.6,2012
+106,Santos,Total,105,24.4,2012
+107,Sao Vicente,Total,49,14.1,2012
+108,Bertioga,Total,28,52.1,2013
+109,Cubatao,Total,24,19.2,2013
+110,Guaruja,Total,52,17.0,2013
+111,Itanhaem,Total,29,31.0,2013
+112,Mongagua,Total,17,33.6,2013
+113,Peruibe,Total,7,11.0,2013
+114,Praia Grande,Total,83,28.8,2013
+115,Santos,Total,77,17.9,2013
+116,Sao Vicente,Total,43,12.3,2013
+117,Bertioga,Total,21,37.9,2014
+118,Cubatao,Total,34,27.0,2014
+119,Guaruja,Total,47,15.2,2014
+120,Itanhaem,Total,27,28.4,2014
+121,Mongagua,Total,8,15.5,2014
+122,Peruibe,Total,5,7.8,2014
+123,Praia Grande,Total,49,16.7,2014
+124,Santos,Total,57,13.2,2014
+125,Sao Vicente,Total,44,12.5,2014
+126,Bertioga,Total,18,31.6,2015
+127,Cubatao,Total,17,13.4,2015
+128,Guaruja,Total,60,19.3,2015
+129,Itanhaem,Total,14,14.5,2015
+130,Mongagua,Total,9,17.1,2015
+131,Peruibe,Total,8,12.3,2015
+132,Praia Grande,Total,51,17.0,2015
+133,Santos,Total,56,13.0,2015
+134,Sao Vicente,Total,33,9.3,2015
+135,Bertioga,Total,33,56.3,2016
+136,Cubatao,Total,17,13.3,2016
+137,Guaruja,Total,56,17.9,2016
+138,Itanhaem,Total,18,18.4,2016
+139,Mongagua,Total,8,14.9,2016
+140,Peruibe,Total,5,7.6,2016
+141,Praia Grande,Total,41,13.4,2016
+142,Santos,Total,71,16.4,2016
+143,Sao Vicente,Total,38,10.6,2016
+144,Bertioga,Total,19,31.6,2017
+145,Cubatao,Total,12,9.3,2017
+146,Guaruja,Total,25,7.9,2017
+147,Itanhaem,Total,21,21.2,2017
+148,Mongagua,Total,4,7.3,2017
+149,Peruibe,Total,7,10.5,2017
+150,Praia Grande,Total,53,16.9,2017
+151,Santos,Total,51,11.8,2017
+152,Sao Vicente,Total,23,6.4,2017
+153,Bertioga,Total,10,16.2,2018
+154,Cubatao,Total,30,23.1,2018
+155,Guaruja,Total,29,9.1,2018
+156,Itanhaem,Total,17,16.9,2018
+157,Mongagua,Total,5,9.0,2018
+158,Peruibe,Total,12,17.8,2018
+159,Praia Grande,Total,59,18.5,2018
+160,Santos,Total,45,10.4,2018
+161,Sao Vicente,Total,36,9.9,2018
+162,Bertioga,Total,11,17.4,2019
+163,Cubatao,Total,25,19.1,2019
+164,Guaruja,Total,44,13.7,2019
+165,Itanhaem,Total,19,18.7,2019
+166,Mongagua,Total,6,10.6,2019
+167,Peruibe,Total,9,13.2,2019
+168,Praia Grande,Total,46,14.2,2019
+169,Santos,Total,44,10.2,2019
+170,Sao Vicente,Total,40,10.9,2019
+171,Bertioga,Total,19,29.4,2020
+172,Cubatao,Total,29,22.0,2020
+173,Guaruja,Total,28,8.7,2020
+174,Itanhaem,Total,20,19.4,2020
+175,Mongagua,Total,5,8.7,2020
+176,Peruibe,Total,14,20.3,2020
+177,Praia Grande,Total,60,18.1,2020
+178,Santos,Total,50,11.5,2020
+179,Sao Vicente,Total,40,10.9,2020
